@@ -1,0 +1,94 @@
+#include <pksm.h>
+#include <stdio.h>
+
+// IV et EV max sur chaque Stats
+void stats_pokemon(char* data)
+{
+    pkx_set_value(data, GEN_SEVEN, IV_HP, 31);
+    pkx_set_value(data, GEN_SEVEN, IV_ATK, 31);
+    pkx_set_value(data, GEN_SEVEN, IV_DEF, 31);
+    pkx_set_value(data, GEN_SEVEN, IV_SPATK, 31);
+    pkx_set_value(data, GEN_SEVEN, IV_SPDEF, 31);
+    pkx_set_value(data, GEN_SEVEN, IV_SPEED, 31);
+
+    pkx_set_value(data, GEN_SEVEN, EV_HP, 255);
+    pkx_set_value(data, GEN_SEVEN, EV_ATK, 255);
+    pkx_set_value(data, GEN_SEVEN, EV_DEF, 255);
+    pkx_set_value(data, GEN_SEVEN, EV_SPATK, 255);
+    pkx_set_value(data, GEN_SEVEN, EV_SPDEF, 255);
+    pkx_set_value(data, GEN_SEVEN, EV_SPEED, 255);
+}
+
+// PPmax sur chaque attaque
+void max_pp_pokemon(char* data)
+{
+    int move;
+    int slot;
+
+    for (slot = 0; slot < 4; slot++)
+    {
+        move = pkx_get_value(data, GEN_SEVEN, MOVE, slot);
+
+        // Si une attaque existe
+        if (move != 0)
+        {
+            // 3 PP Plus
+            pkx_set_value(data, GEN_SEVEN, PP_UPS, slot, 3);
+
+            // PP max avec 3 PP Plus
+            pkx_set_value(data, GEN_SEVEN, PP, slot, max_pp(GEN_SEVEN, move, 3));
+        }
+    }
+}
+
+
+// Fonction qui lance tous les upgrades du pkm
+void upgrade_pokemon(data) {
+    stats_pokemon(data);
+    max_pp_pokemon(data);
+}
+
+int main(int argc, char** argv)
+{
+    // Modif PKM in all boxes
+    char data[pkx_box_size(GEN_SEVEN)];
+    int count = 0;
+
+    for (int box = 0; box < 32; box++)
+    {
+        for (int slot = 0; slot < 30; slot++)
+        {
+            sav_get_pkx(data, box, slot);
+
+            if (!pkx_is_valid(data, GEN_SEVEN))
+                continue;
+            
+            upgrade_pokemon(data);
+            sav_inject_pkx(data, GEN_SEVEN, box, slot, 0);
+
+            count++;
+        }
+    }
+
+    // Modif PKM in Team
+    char party[pkx_party_size(GEN_SEVEN)];
+
+    for (int slot = 0; slot < 6; slot++)
+    {
+        party_get_pkx(party, slot);
+
+        if (!pkx_is_valid(party, GEN_SEVEN))
+            continue;
+
+        upgrade_pokemon(party);
+        party_inject_pkx(party, GEN_SEVEN, slot);
+
+        count++;
+    }
+
+    char message[64];
+    sprintf(message, "%d Pokemon modified", count);
+    gui_warn(message);
+
+    return 0;
+}
