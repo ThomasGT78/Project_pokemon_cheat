@@ -43,7 +43,7 @@ void max_pp_pokemon(char* data)
 
 
 // Fonction qui lance tous les upgrades du pkm
-void upgrade_pokemon(data) {
+void upgrade_pokemon(char* data) {
     stats_pokemon(data);
     max_pp_pokemon(data);
 }

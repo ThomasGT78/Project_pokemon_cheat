@@ -1,0 +1,238 @@
+Apparu,Index,Talent,Effet en combat
+RS,1,Puanteur,"Quand le Pokémon inflige des dégâts à l’aide d’une capacité, il a 10 % de chances d’apeurer la cible."
+RS,2,Crachin,"Quand le Pokémon arrive sur le terrain, il invoque la pluie pendant 5 tours."
+RS,3,Turbo,La Vitesse du Pokémon augmente de 1 cran à la fin de chaque tour.
+RS,4,Armurbaston,Le Pokémon est immunisé contre les coups critiques.
+RS,5,Fermeté,"Si les PV du Pokémon sont au maximum et qu’il subit des dégâts d’une capacité qui devrait le mettre K.O. en un coup, il résiste avec 1 PV."
+,,,Les capacités qui mettent toujours K.O. en un coup sont inefficaces sur le Pokémon.
+RS,6,Moiteur,Le Pokémon empêche l’utilisation des capacités explosives et l’activation des talents explosifs.
+RS,7,Échauffement,Le Pokémon est immunisé contre la paralysie.
+RS,8,Voile Sable,"Lors des tempêtes de sable, l’Esquive du Pokémon est multipliée par 1,25."
+RS,9,Statik,"Quand le Pokémon subit une capacité à contact, il a 30 % de chances de paralyser l’adversaire."
+RS,10,Absorbe-Volt,Les capacités de type Électrik sont inefficaces sur le Pokémon et lui rendent 1/4 de ses PV max.
+RS,11,Absorbe-Eau,Les capacités de type Eau sont inefficaces sur le Pokémon et lui rendent 1/4 de ses PV max.
+RS,12,Benêt,"Le Pokémon est immunisé contre l’état « Attraction », la provocation ou l’intimidation."
+RS,13,Ciel Gris,Le Pokémon annule tous les effets liés à la météo.
+RS,14,Œil Composé,"La Précision des capacités du Pokémon est multipliée par 1,3."
+RS,15,Insomnia,Le Pokémon est immunisé contre le sommeil et la somnolence.
+RS,16,Homochromie,"Lorsque le Pokémon est touché par une capacité, il prend le type de celle-ci."
+RS,17,Vaccin,Le Pokémon est immunisé contre le poison et le poison grave.
+RS,18,Torche,Les capacités de type Feu sont inefficaces sur ce Pokémon et le font entrer dans l’état « Torche ».
+RS,19,Écran Poudre,Le Pokémon est immunisé contre les effets additionnels des attaques.
+RS,20,Tempo Perso,Le Pokémon est immunisé contre la confusion et l’intimidation.
+RS,21,Ventouse,Le Pokémon est immunisé contre les capacités ou les objets des adversaires qui forcent à changer de Pokémon.
+RS,22,Intimidation,"Quand le Pokémon arrive sur le terrain, il baisse l’Attaque des adversaires de 1 cran."
+RS,23,Marque Ombre,Le Pokémon empêche les adversaires de quitter le terrain.
+RS,24,Peau Dure,"Quand le Pokémon subit une capacité à contact, il inflige à l’adversaire des dégâts équivalents à 1/8 des PV max de celui-ci."
+RS,25,Garde Mystik,"Une puissance mystérieuse protège le Pokémon contre toutes les capacités, sauf celles « super efficaces »."
+RS,26,Lévitation,"Le Pokémon flotte au-dessus du sol, ce qui l’immunise contre les capacités de type Sol, ainsi que les effets de Picots, Pics Toxik et Toile Gluante."
+RS,27,Pose Spore,"Quand le Pokémon subit une capacité à contact, il a 30 % de chances d’empoisonner, paralyser ou endormir l’adversaire."
+RS,28,Synchro,"Si le Pokémon est empoisonné, gravement empoisonné, paralysé ou brûlé par une capacité ou un talent d’un autre Pokémon, ce dernier subit la même altération de statut."
+RS,29,Corps Sain,Les stats du Pokémon ne peuvent pas baisser à cause des capacités ou du talent des adversaires.
+RS,30,Médic Nature,"Quand le Pokémon revient dans son équipe, il soigne ses altérations de statut."
+RS,31,Paratonnerre,Le Pokémon attire les capacités de type Électrik. Elles sont inefficaces sur lui et augmentent son Attaque Spéciale de 1 cran.
+RS,32,Sérénité,Augmente les chances d'infliger des effets additionnels.
+RS,33,Glissade,"Quand il pleut, la Vitesse du Pokémon est multipliée par 2."
+RS,34,Chlorophylle,"Quand le soleil brille, la Vitesse du Pokémon est multipliée par 2."
+RS,35,Luminescence,"Le Pokémon ignore les changements d’Esquive des adversaires, et sa Précision ne peut pas baisser."
+RS,36,Calque,"Quand le Pokémon arrive sur le terrain, il adopte le même talent que l’adversaire."
+RS,37,Coloforce,La puissance des capacités physiques du Pokémon est multipliée par 2.
+RS,38,Point Poison,"Quand le Pokémon subit une capacité à contact, il a 30 % de chances d’empoisonner l’adversaire."
+RS,39,Attention,"Le Pokémon ne peut pas être apeuré par les attaques des adversaires, et il est immunisé contre l’intimidation."
+RS,40,Armumagma,Le Pokémon est immunisé contre le gel.
+RS,41,Ignifu-Voile,Le voile qui recouvre le Pokémon le protège des brûlures.
+RS,42,Magnépiège,"Attire les Pokémon Acier grâce à un champ magnétique, ce qui les empêche de quitter le terrain."
+RS,43,Anti-Bruit,Le Pokémon est immunisé contre les capacités de son.
+RS,44,Cuvette,"Quand il pleut, le Pokémon récupère 1/16 de ses PV max à la fin de chaque tour."
+RS,45,Sable Volant,"Quand le Pokémon arrive sur le terrain, il invoque une tempête de sable pendant 5 tours."
+RS,46,Pression,Les adversaires doivent dépenser 1 PP supplémentaire pour viser ce Pokémon avec leurs capacités.
+RS,47,Isograisse,Les dégâts des capacités de types Feu et Glace subis par le Pokémon sont réduits de moitié.
+RS,48,Matinal,Le Pokémon se réveille deux fois plus vite de l’endormissement.
+RS,49,Corps Ardent,"Quand le Pokémon subit une capacité à contact, il a 30 % de chances de brûler l’adversaire."
+RS,50,Fuite,"Le Pokémon peut être remplacé par un autre Pokémon de son équipe, même si des effets l’en empêchent."
+RS,51,Regard Vif,"Le Pokémon ignore les changements d’Esquive des adversaires, et sa Précision ne peut pas baisser."
+RS,52,Hyper Cutter,L’Attaque du Pokémon ne peut pas baisser à cause des capacités ou du talent des adversaires.
+RS,53,Ramassage,"Quand le Pokémon ne tient pas d’objet, à la fin du tour, il ramasse celui qu’un autre Pokémon a consommé."
+RS,54,Absentéisme,"Lorsque le Pokémon utilise une capacité, il passe le tour suivant à paresser."
+RS,55,Agitation,"Quand le Pokémon utilise une capacité physique, son Attaque est multipliée par 1,5, tandis que sa Précision est multipliée par 0,8."
+RS,56,Joli Sourire,"Quand le Pokémon subit une capacité à contact d’un adversaire du sexe opposé, il a 30 % de chances de lui infliger l’état « Attraction »."
+RS,57,Plus,"L’Attaque Spéciale du Pokémon est multipliée par 1,5 si un allié présent sur le terrain a le talent Plus ou le talent Moins."
+RS,58,Moins,"L’Attaque Spéciale du Pokémon est multipliée par 1,5 si un allié présent sur le terrain a le talent Plus ou le talent Moins."
+RS,59,Météo,"Le Pokémon prend le type Eau, Feu ou Glace en fonction de la météo."
+RS,60,Glu,Le Pokémon ne peut pas perdre l’objet qu’il tient. Les adversaires ne peuvent pas le dérober.
+RS,61,Mue,Le Pokémon a 30 % de chances de soigner ses altérations de statut à la fin de chaque tour.
+RS,62,Cran,"Quand le Pokémon souffre d’une altération de statut, son Attaque est multipliée par 1,5."
+,,,"De plus, lorsque le Pokémon est brûlé, les dégâts qu’il inflige avec ses capacités physiques ne sont pas réduits de moitié."
+RS,63,Écaille Spéciale,"Quand le Pokémon souffre d’une altération de statut, sa Défense est multipliée par 1,5."
+RS,64,Suintement,"Quand le Pokémon subit une capacité absorbant des PV, il empêche l’adversaire de se soigner et lui inflige des dégâts équivalents à la quantité de PV qui aurait dû être absorbée."
+RS,65,Engrais,"Quand les PV du Pokémon sont inférieurs ou égaux à 1/3 de ses PV max, la puissance de ses capacités de type Plante est multipliée par 1,5."
+RS,66,Brasier,"Quand les PV du Pokémon sont inférieurs ou égaux à 1/3 de ses PV max, la puissance de ses capacités de type Feu est multipliée par 1,5."
+RS,67,Torrent,"Quand les PV du Pokémon sont inférieurs ou égaux à 1/3 de ses PV max, la puissance de ses capacités de type Eau est multipliée par 1,5."
+RS,68,Essaim,"Quand les PV du Pokémon sont inférieurs ou égaux à 1/3 de ses PV max, la puissance de ses capacités de type Insecte est multipliée par 1,5."
+RS,69,Tête de Roc,Le Pokémon peut utiliser des capacités qui devraient normalement aussi lui infliger des dégâts sans perdre de PV.
+RS,70,Sécheresse,"Quand le Pokémon arrive sur le terrain, il invoque le soleil pendant 5 tours."
+RS,71,Piège Sable,Empêche l'adversaire de quitter le terrain.
+RS,72,Esprit Vital,Le Pokémon est immunisé contre le sommeil et la somnolence.
+RS,73,Écran Fumée,Les stats du Pokémon ne peuvent pas baisser à cause des capacités ou du talent des adversaires.
+RS,74,Force Pure,La puissance des capacités physiques du Pokémon est multipliée par 2.
+RS,75,Coque Armure,Le Pokémon est immunisé contre les coups critiques.
+RS,76,Air Lock,Annule tous les effets de la météo.
+RS,[note 1],Cacophonie,Évite les attaques sonores.
+DP,77,Pied Confus,"Quand le Pokémon est confus, son Esquive est multipliée par 2."
+DP,78,Motorisé,Les capacités de type Électrik sont inefficaces sur le Pokémon et augmentent sa Vitesse de 1 cran.
+DP,79,Rivalité,"La puissance des capacités du Pokémon est multipliée par 1,25 si l’adversaire est du même sexe, et par 0,75 s’il est du sexe opposé."
+,,,"Si l’un ou l’autre Pokémon est de sexe inconnu, les capacités conservent leur puissance d’origine."
+DP,80,Impassible,"Quand le Pokémon est apeuré, sa Vitesse augmente de 1 cran."
+DP,81,Rideau Neige,"Quand il neige, l’Esquive du Pokémon est multipliée par 1,25."
+DP,82,Gloutonnerie,"Le Pokémon n’attend pas qu’il lui reste 1/4 de ses PV ou moins pour manger la Baie qu’il tient, il la mange quand ses PV sont réduits de moitié ou moins."
+DP,83,Colérique,"Quand le Pokémon subit un coup critique, son Attaque augmente et atteint le 6? cran."
+DP,84,Délestage,La Vitesse du Pokémon est multipliée par 2 si l’objet qu’il tient disparaît.
+DP,85,Ignifugé,Les dégâts des capacités de type Feu et de brûlure subis par le Pokémon sont réduits de moitié.
+DP,86,Simple,Les changements de stats du Pokémon sont multipliés par 2.
+DP,87,Peau Sèche,"Les capacités de type Eau sont inefficaces sur le Pokémon et lui rendent 1/4 de ses PV max, mais les dégâts qu’il subit provenant de capacités de type Feu sont multipliés par 1,25."
+,,,"Quand il pleut, le Pokémon récupère 1/8 de ses PV max à la fin de chaque tour, mais quand le soleil brille, il perd 1/8 de ses PV max à la fin de chaque tour."
+DP,88,Télécharge,Le Pokémon compare la Défense et la Défense Spéciale de l'adversaire et augmente son Attaque ou son Attaque Spéciale en conséquence.
+DP,89,Poing de Fer,"La puissance des capacités de coups de poing du Pokémon est multipliée par 1,2."
+DP,90,Soin Poison,"Quand le Pokémon est empoisonné ou gravement empoisonné, il récupère 1/8 de ses PV max à la fin de chaque tour au lieu d’en perdre."
+DP,91,Adaptabilité,"La puissance des capacités du même type que le Pokémon est multipliée par 2 au lieu de 1,5."
+DP,92,Multi-Coups,Les capacités du Pokémon pouvant frapper plusieurs fois frappent toujours le maximum de fois possible.
+DP,93,Hydratation,"Quand il pleut, le Pokémon soigne ses altérations de statut à la fin de chaque tour."
+DP,94,Force Soleil,"Quand le soleil brille, l’Attaque Spéciale du Pokémon est multipliée par 1,5, mais il perd 1/8 de ses PV max à la fin de chaque tour."
+DP,95,Pied Véloce,"Quand le Pokémon souffre d’une altération de statut, sa Vitesse est multipliée par 1,5. De plus, sa Vitesse ne baisse pas lorsqu’il est paralysé."
+DP,96,Normalise,"Toutes les capacités du Pokémon deviennent de type Normal, quel que soit leur type original. Leur puissance augmente légèrement."
+DP,97,Sniper,"Le multiplicateur de puissance appliqué lorsque ce Pokémon inflige un coup critique est de 2,25 au lieu de 1,5."
+DP,98,Garde Magik,Seules les attaques peuvent infliger des dégâts au Pokémon.
+DP,99,Annule Garde,La Précision des capacités du Pokémon et des capacités qui ciblent le Pokémon passe à 100 %.
+DP,100,Frein,"Quand des capacités ont le même niveau de priorité, le Pokémon agit en dernier."
+DP,101,Technicien,"Quand la puissance des capacités du Pokémon est inférieure ou égale à 60, elle est multipliée par 1,5."
+DP,102,Feuille Garde,"Quand le soleil brille, le Pokémon est immunisé contre les altérations de statut."
+DP,103,Maladresse,L’objet que tient le Pokémon n’a pas d’effet.
+DP,104,Brise Moule,Le Pokémon peut utiliser ses capacités en ignorant le talent des adversaires. Certains talents ne peuvent pas être ignorés.
+DP,105,Chanceux,Le taux de critiques du Pokémon augmente de 1 cran.
+DP,106,Boom Final,"Quand le Pokémon est mis K.O. par une capacité à contact, il inflige à l’adversaire des dégâts équivalents à 1/4 des PV max de celui-ci."
+DP,107,Anticipation,"Quand il arrive sur le terrain, le Pokémon devine si les adversaires connaissent des capacités super efficaces sur lui, ou des capacités qui mettent toujours K.O. en un coup."
+DP,108,Prédiction,"Quand il arrive sur le terrain, le Pokémon détecte la capacité la plus puissante des adversaires."
+DP,109,Inconscient,"Quand le Pokémon attaque ou est attaqué, il ignore les changements de stats des adversaires, sauf les changements de Vitesse."
+DP,110,Lentiteintée,Permet à une capacité qui n'est pas très efficace d'infliger des dégâts comme si elle était efficace normalement.
+DP,111,Filtre,Le Pokémon ne subit que 3/4 des dégâts des capacités super efficaces.
+DP,112,Début Calme,Divise la Vitesse et l'Attaque du Pokémon par deux pendant les cinq premiers tours du combat.
+DP,113,Querelleur,Le Pokémon peut toucher les Pokémon de type Spectre avec des capacités de type Normal ou Combat. Il est aussi immunisé contre l’intimidation.
+DP,114,Lavabo,"Le Pokémon détourne sur lui les capacités de type Eau et les neutralise, tout en montant son Attaque Spéciale."
+DP,115,Corps Gel,"Quand il neige, le Pokémon récupère 1/16 de ses PV max à la fin de chaque tour."
+DP,116,Solide Roc,Le Pokémon ne subit que 3/4 des dégâts des capacités super efficaces.
+DP,117,Alerte Neige,"Quand le Pokémon arrive sur le terrain, il invoque la neige pendant 5 tours."
+DP,118,Cherche Miel,Le Pokémon peut parfois trouver du Miel après un combat.
+DP,119,Fouille,"Quand le Pokémon arrive sur le terrain, il peut identifier l’objet que tient l’adversaire."
+DP,120,Téméraire,"La puissance des capacités infligeant aussi des dégâts au Pokémon est multipliée par 1,2."
+DP,121,Multi-Type,Modifie le type du Pokémon en fonction de la plaque qu'il tient.
+DP,122,Don Floral,Augmente l'Attaque et la Défense Spéciale du Pokémon et de ses alliés lorsque le soleil brille.
+DP,123,Mauvais Rêve,Inflige des dégâts aux ennemis endormis.
+NB,124,Pickpocket,"Quand le Pokémon ne tient pas d’objet et qu’il subit une capacité à contact, il vole celui de l’adversaire."
+NB,125,Sans Limite,"Les attaques du Pokémon perdent leurs effets additionnels, mais la puissance de ses capacités est multipliée par 1,3."
+NB,126,Contestation,"Les changements de stats du Pokémon sont inversés : les augmentations de stats se transforment en baisses, et les baisses de stats se transforment en augmentations."
+NB,127,Tension,Le Pokémon empêche les adversaires de manger des Baies.
+NB,128,Acharné,"Quand un adversaire baisse au moins une des stats du Pokémon, l’Attaque de ce dernier augmente de 2 crans."
+NB,129,Défaitiste,"Le Pokémon devient défaitiste quand ses PV tombent à la moitié, et son Attaque et son Attaque Spéciale sont divisées par deux."
+NB,130,Corps Maudit,"Quand le Pokémon subit des dégâts d’une capacité, il a 30 % de chances d’infliger l’état « Capacité bloquée » à l’adversaire pendant 4 tours."
+NB,131,Cœur Soin,Le Pokémon a 50 % de chances de soigner les altérations de statut d’un allié à la fin de chaque tour.
+NB,132,Garde-Ami,Les alliés du Pokémon ne subissent que 3/4 des dégâts qui leur sont infligés.
+NB,133,Armurouillée,"Quand le Pokémon subit des dégâts d’une capacité physique, sa Défense baisse de 1 cran, mais sa Vitesse augmente de 2 crans."
+NB,134,Heavy Metal,Le poids du Pokémon est multiplié par 2.
+NB,135,Light Metal,Le poids du Pokémon est divisé par 2.
+NB,136,Multiécaille,"Quand les PV du Pokémon sont au maximum, les dégâts qu’il subit sont réduits de moitié."
+NB,137,Rage Poison,Augmente la puissance des capacités physiques quand le Pokémon est empoisonné.
+NB,138,Rage Brûlure,Augmente la puissance des capacités spéciales quand le Pokémon est brûlé.
+NB,139,Récolte,"Si le Pokémon utilise une Baie, il a 50 % de chances d’en récolter une identique à la fin de chaque tour. Quand le soleil brille, il récolte une Baie à coup sûr."
+NB,140,Télépathe,Le Pokémon évite les attaques de ses alliés.
+NB,141,Lunatique,"À la fin de chaque tour, une stat du Pokémon augmente de 2 crans et une autre stat baisse de 1 cran."
+NB,142,Envelocape,"Le Pokémon est immunisé contre les dégâts des tempêtes de sable, et contre les capacités et les talents qui libèrent de la poudre."
+NB,143,Toxitouche,"Quand le Pokémon inflige une capacité à contact à l’adversaire, il a 30 % de chances de l’empoisonner."
+NB,144,Régé-Force,"Quand le Pokémon revient dans son équipe, il récupère 1/3 de ses PV max."
+NB,145,Cœur de Coq,La Défense du Pokémon ne peut pas baisser à cause des capacités ou du talent des adversaires.
+NB,146,Baigne Sable,"Pendant les tempêtes de sable, la Vitesse du Pokémon est multipliée par 2."
+NB,147,Peau Miracle,Le Pokémon résiste mieux aux capacités de statut.
+NB,148,Analyste,"Quand le Pokémon agit en dernier, la puissance de ses capacités est multipliée par 1,3."
+NB,149,Illusion,Le Pokémon apparaît sous les traits du dernier membre de l’équipe. L’effet se dissipe s’il subit les dégâts d’une capacité.
+NB,150,Imposteur,"Le Pokémon prend l’apparence du Pokémon en face de lui. Toutes les caractéristiques de ce dernier, à l’exception de ses PV, sont également dupliquées."
+NB,151,Infiltration,"Le Pokémon peut utiliser ses capacités en ignorant les effets des capacités suivantes des adversaires : Mur Lumière, Protection, Voile Aurore, Rune Protect et Clonage."
+NB,152,Momie,"Quand le Pokémon subit une capacité à contact, le talent de l’adversaire est remplacé par Momie."
+NB,153,Impudence,"Quand le Pokémon met un adversaire K.O. avec une attaque, son Attaque augmente de 1 cran."
+NB,154,Cœur Noble,"Quand le Pokémon subit des dégâts d’une capacité de type Ténèbres, son Attaque augmente de 1 cran."
+NB,155,Phobique,"Si le Pokémon est intimidé ou subit des dégâts d’une capacité de type Ténèbres, Spectre ou Insecte, sa Vitesse augmente de 1 cran."
+NB,156,Miroir Magik,Le Pokémon est immunisé contre les capacités de statut et les renvoie vers l’adversaire.
+NB,157,Herbivore,Les capacités de type Plante sont inefficaces sur le Pokémon et augmentent son Attaque de 1 cran.
+NB,158,Farceur,Le niveau de priorité des capacités de statut du Pokémon augmente de 1 cran.
+NB,159,Force Sable,"La puissance des capacités de types Roche, Sol et Acier du Pokémon est multipliée par 1,3 pendant les tempêtes de sable."
+NB,160,Épine de Fer,Inflige des dégâts à l'attaquant lorsque le Pokémon subit une attaque directe.
+NB,161,Mode Transe,Le Pokémon change de forme quand il lui reste moins de la moitié de ses PV.
+NB,162,Victorieux,Augmente la Précision du Pokémon et de ses alliés.
+NB,163,Turbo Brasier,Le Pokémon ignore les talents adverses qui auraient un effet sur ses capacités.
+NB,164,Téra-Voltage,Le Pokémon ignore les talents adverses qui auraient un effet sur ses capacités.
+XY,165,Aroma-Voile,"Le Pokémon et ses alliés sont immunisés contre la provocation, l’impossibilité de répétition des capacités, le blocage de capacités, le blocage de soins, ainsi que les états « Attraction » et « Encore »."
+XY,166,Flora-Voile,Le Pokémon empêche ses alliés de type Plante de subir des baisses de stats et des altérations de statut.
+XY,167,Bajoues,"Quand le Pokémon mange une Baie, il bénéficie de ses effets et en plus, il récupère 1/3 de ses PV max."
+XY,168,Protéen,Le Pokémon prend le type de la capacité qu’il utilise. Ce talent ne s’active qu’une fois par arrivée du Pokémon sur le terrain.
+XY,169,Toison Épaisse,Les dégâts des capacités physiques subis par le Pokémon sont réduits de moitié.
+XY,170,Magicien,"Quand le Pokémon ne tient pas d’objet, il vole celui de l’adversaire auquel il inflige des dégâts à l’aide d’une capacité."
+XY,171,Pare-Balles,Le Pokémon est immunisé contre les capacités lançant des projectiles.
+XY,172,Battant,"Quand un adversaire baisse au moins une des stats du Pokémon, l’Attaque Spéciale de ce dernier augmente de 2 crans."
+XY,173,Prognathe,"La puissance des capacités de morsure du Pokémon est multipliée par 1,5."
+XY,174,Peau Gelée,"Les capacités de type Normal du Pokémon prennent le type Glace et leur puissance est multipliée par 1,2."
+XY,175,Gluco-Voile,Le Pokémon et ses alliés sont immunisés contre le sommeil et la somnolence.
+XY,176,Déclic Tactique,"Le Pokémon prend sa Forme Assaut lorsqu’il utilise une attaque, et sa Forme Parade lorsqu’il utilise la capacité Bouclier Royal."
+XY,177,Ailes Bourrasque,"Quand les PV du Pokémon sont au maximum, le niveau de priorité de ses capacités de type Vol augmente de 1 cran."
+XY,178,Méga Blaster,"La puissance des capacités du Pokémon qui projettent une aura est multipliée par 1,5."
+XY,179,Toison Herbue,"Quand un champ herbu est actif, la Défense du Pokémon est multipliée par 1,5."
+XY,180,Symbiose,"Quand un allié consomme son objet, le Pokémon lui donne celui qu’il tient."
+XY,181,Griffe Dure,"La puissance des capacités à contact du Pokémon est multipliée par 1,3."
+XY,182,Peau Féérique,"Les capacités de type Normal du Pokémon prennent le type Fée et leur puissance est multipliée par 1,2."
+XY,183,Poisseux,"Quand le Pokémon subit une capacité à contact, la Vitesse de l’adversaire baisse de 1 cran."
+XY,184,Peau Céleste,"Les capacités de type Normal du Pokémon prennent le type Vol et leur puissance est multipliée par 1,2."
+XY,185,Amour Filial,La mère et son petit peuvent attaquer 2 fois d’affilée. La puissance des attaques du petit est égale à 1/4 de celle des attaques de la mère.
+XY,186,Aura Ténébreuse,Augmente la puissance des attaques de type Ténèbres de tous les Pokémon.
+XY,187,Aura Féérique,"La puissance des capacités de type Fée de tous les Pokémon est multipliée par 1,33."
+XY,188,Aura Inversée,Inverse l'effet des talents « Aura » afin que ceux-ci baissent la puissance des capacités affectées au lieu de l'augmenter.
+ROSA,189,Mer Primaire,Altère les conditions météo pour neutraliser les attaques de type Feu.
+ROSA,190,Terre Finale,Altère les conditions météo pour neutraliser les attaques de type Eau.
+ROSA,191,Souffle Delta,Altère les conditions météo pour annuler les faiblesses du type Vol.
+SL,192,Endurance,"Quand le Pokémon subit des dégâts d’une capacité, sa Défense augmente de 1 cran."
+SL,193,Escampette,Le Pokémon perd confiance quand ses PV tombent à la moitié et s'enfuit dans sa Poké Ball.
+SL,194,Repli Tactique,"Quand les PV du Pokémon tombent à la moitié ou moins, il revient dans son équipe."
+SL,195,Sable Humide,Augmente beaucoup la Défense du Pokémon quand il subit une capacité de type Eau.
+SL,196,Cruauté,"Quand le Pokémon attaque un adversaire empoisonné ou gravement empoisonné, il inflige systématiquement un coup critique."
+SL,197,Bouclier-Carcan,"Lorsque le Pokémon perd la moitié de ses PV, son enveloppe se brise et il adopte une posture offensive."
+SL,198,Filature,"Quand le Pokémon attaque une cible qui vient d’arriver sur le terrain après un échange, la puissance de la capacité utilisée est multipliée par 2."
+SL,199,Aquabulle,Le Pokémon est immunisé contre la brûlure. Les dégâts des capacités de type Feu qu’il subit sont réduits de moitié. La puissance de ses capacités de type Eau est multipliée par 2.
+SL,200,Expert Acier,Augmente la puissance des attaques de type Acier.
+SL,201,Folle Furie,L’Attaque Spéciale du Pokémon augmente de 1 cran quand ses PV tombent à la moitié ou moins à cause d’une attaque de l’adversaire.
+SL,202,Chasse-Neige,"Quand il neige, la Vitesse du Pokémon est multipliée par 2."
+SL,203,Longue Portée,Les capacités que le Pokémon utilise ne sont pas considérées comme des capacités à contact.
+SL,204,Hydrata-Son,Les capacités de son utilisées par le Pokémon prennent le type Eau.
+SL,205,Prioguérison,Rend les capacités de soin prioritaires.
+SL,206,Peau Électrique,Les capacités de type Normal deviennent de type Électrik. Leur puissance augmente légèrement.
+SL,207,Surf Caudal,"Quand un champ électrifié est actif, la Vitesse du Pokémon est multipliée par 2."
+SL,208,Banc,"Le Pokémon se rassemble avec ses congénères quand ses PV sont élevés. Quand il ne lui reste plus beaucoup de PV, le banc se disperse."
+SL,209,Fantômasque,"Si le Pokémon devait subir des dégâts d’une capacité sous sa Forme Déguisée, il perd 1/8 de ses PV max à la place, puis prend sa Forme Démasquée."
+SL,210,Synergie,"En battant un ennemi, ce Pokémon renforce ses liens avec son Dresseur, ce qui augmente son Attaque, son Attaque Spéciale et sa Vitesse."
+SL,211,Rassemblement,"Lorsque le Pokémon perd la moitié de ses PV, ses Cellules se rassemblent pour l'encourager, ce qui lui permet de prendre sa Forme Parfaite."
+SL,212,Corrosion,Le Pokémon est capable d’empoisonner ou de gravement empoisonner les Pokémon de type Acier ou Poison.
+SL,213,Hypersommeil,Le Pokémon rêve en permanence et ne se réveille jamais. Il est capable d'attaquer normalement tout en dormant.
+SL,214,Prestance Royale,Les adversaires ne peuvent pas utiliser de capacités prioritaires sur le Pokémon et ses alliés.
+SL,215,Expuls'Organes,"Quand le Pokémon subit des dégâts d’une capacité qui le met K.O., il renvoie la même quantité de dégâts à l’adversaire qui les lui a infligés."
+SL,216,Danseuse,"Si n'importe quel Pokémon utilise une capacité dansante, le Pokémon utilise immédiatement cette danse lui aussi."
+SL,217,Batterie,Augmente la puissance des capacités spéciales des alliés.
+SL,218,Boule de Poils,"Les dégâts des capacités à contact subis par le Pokémon sont réduits de moitié, mais les dégâts des capacités de type Feu subis par le Pokémon sont multipliés par 2."
+SL,219,Corps Coloré,"L'adversaire est abasourdi par le Pokémon, ce qui l'empêche de viser ce dernier et ses alliés avec une capacité prioritaire"
+SL,220,Animacœur,Augmente l'Attaque Spéciale du Pokémon lorsqu'un autre Pokémon est mis K.O.
+SL,221,Mèche Rebelle,Baisse la Vitesse de l'attaquant lorsque le Pokémon subit une attaque directe.
+SL,222,Receveur,Le Pokémon obtient le talent d’un allié mis K.O.
+SL,223,Osmose,Le Pokémon acquiert le talent d'un allié mis K.O.
+SL,224,Boost Chimère,Augmente la stat la plus élevée du Pokémon quand il met K.O. un autre Pokémon.
+SL,225,Système Alpha,Change le type du Pokémon en fonction de la ROM équipée.
+SL,226,Créa-Élec,"Quand le Pokémon arrive sur le terrain, il crée un champ électrifié sur tout le terrain pendant 5 tours."
+SL,227,Créa-Psy,"Quand le Pokémon arrive sur le terrain, il crée un champ psychique sur tout le terrain pendant 5 tours."
+SL,228,Créa-Brume,Le Pokémon crée un Champ Brumeux au moment où il entre au combat.
+SL,229,Créa-Herbe,"Quand le Pokémon arrive sur le terrain, il crée un champ herbu sur tout le terrain pendant 5 tours."
+SL,230,Métallo-Garde,Empêche les stats du Pokémon de baisser à cause du talent ou d'une capacité de l'adversaire.
+SL,231,Spectro-Bouclier,Le Pokémon reçoit moins de dégâts quand ses PV sont au maximum.
+SL,232,Prisme-Armure,Diminue la puissance des attaques super efficaces subies.
